@@ -24,3 +24,9 @@ Please find more information in our accompanying paper, "Online learning of the 
 * RLS_TM.m : reconstructs the transfer matrix based on the RLS algorithm;
 * RLS_update.m : the updating routine of the RLS algorithm, as described in the figure above;
 * error_compute.m : computes the root-mean-square normalized error between the ground truth transfer matrix and its estimate.
+
+
+You may expect results to look like the figure below.
+
+
+<img src="https://github.com/laboGigan/online_learning_TM/blob/main/pics/result.png" width="1000"/>
