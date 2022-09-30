@@ -12,12 +12,10 @@ function main_function()
     N = 8*8;
     limit_phase_control_no_noise_static = (N-1) * pi/4 + 1;
     n_rep = 50;
-%     noise_coeff = [1e-2, 0.6, 1];
-    noise_coeff = [1e-2];
+    noise_coeff = [1e-2, 0.6, 1];
     N_phase_steps = 4;
     n_meas = round(N_phase_steps * N * 5);
-%     persistence = N * N_phase_steps * [1e6, 3, 1];
-    persistence = N * N_phase_steps * [1e6];
+    persistence = N * N_phase_steps * [1e6, 3, 1];
     M = 7*7;
     M_psf = 11*11;
     reg_constant = 1;
