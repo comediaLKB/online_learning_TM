@@ -19,7 +19,7 @@ Please find more information in our accompanying paper, "Online learning of the 
 
 
 ### Functions
-* main_function.m : simulates wavefront shaping experiments at varying stability times of the scattering medium and noise levels,                       and produces figures comparing a conventional transfer-matrix approach with the one based on the RLS algorithm;
+* main_function.m : simulates wavefront shaping experiments at varying stability times of the scattering medium and noise levels, and produces figures comparing a conventional transfer-matrix approach with the one based on the RLS algorithm;
 * TM.m : reconstructs the transfer matrix using a conventional algorithm employing N measurements, where N is the number of inputs degrees of freedom;
 * RLS_TM.m : reconstructs the transfer matrix based on the RLS algorithm;
 * RLS_update.m : the updating routine of the RLS algorithm, as described in the figure above;
