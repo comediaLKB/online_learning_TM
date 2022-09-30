@@ -11,3 +11,7 @@ The core of the process lies in the so-called Recursive Least-Squares (RLS) algo
 
 
 <img src="https://github.com/laboGigan/online_learning_TM/blob/main/pics/algo.png" width="600"/>
+
+
+### Publication
+Please find more information in our accompanying paper, "Online learning of the transfer matrix of dynamic scattering media: wavefront shaping meets multidimensional time series"
