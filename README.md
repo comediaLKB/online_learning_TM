@@ -1,2 +1,2 @@
-# online_learning_TM
-Online, recursive learning of the transmission matrix of dynamic scattering media with wavefront shaping
+# Online learning of the transfer matrix of dynamic scattering media
+Codes to simulate wavefront shaping experiments and optimally recover the transfer matrix of dynamic scattering media in an online and recursive fashion.
