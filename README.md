@@ -4,7 +4,8 @@ Codes to simulate wavefront shaping experiments and optimally recover the transf
 Its use in a conventional wavefront shaping experiment is illustrated in the figure below.
 
 
-![alt text](https://github.com/laboGigan/online_learning_TM/blob/main/pics/method_summary.png =100x20 "summary")
+![alt text](https://github.com/laboGigan/online_learning_TM/blob/main/pics/method_summary.png "summary")
+
 
 The core of the process lies in the so-called Recursive Least-Squares (RLS) algorithm, described in pseudo-code below.
 
